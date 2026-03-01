@@ -1,0 +1,1 @@
+ D:\\office\\Portfolio\\portfolio_app\\.dart_tool\\flutter_build\\afd595386a4dea57508843f7b21b84d1\\dart_build_result.json:  C:\\flutter\\bin\\cache\\dart-sdk\\version D:\\office\\Portfolio\\portfolio_app\\.dart_tool\\package_config.json D:\\office\\Portfolio\\portfolio_app\\pubspec.yaml d:\\office\\portfolio\\portfolio_app\\.dart_tool\\package_config.json
